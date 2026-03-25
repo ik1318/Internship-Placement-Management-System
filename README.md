@@ -1,8 +1,6 @@
 # Internship Placement Management System
 *Developed as part of a group project for SC2002.*
 
-The Internship Placement Management System is a robust Java-based CLI tool designed to streamline and automate the internship application and placement process. It ensures transparency and efficiency by managing roles for Students, Company Representatives, and Career Center Staff within a unified ecosystem.
-
 ## THIS PROJECT PERFORMS THE FOLLOWING JOBS:
 
 - **Data Processing:** Loading and managing student, staff, and company records from CSV files using a custom bootstrap mechanism.
